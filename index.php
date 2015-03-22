@@ -29,7 +29,7 @@ define('ROOT', dirname(__FILE__));
 define('WEBROOT_DIR', 'webroot');
 define('WWW_ROOT', ROOT . DS . APP_DIR . DS . WEBROOT_DIR . DS);
 
-// hello
+// hello again
 
 
 /**
